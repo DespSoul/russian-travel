@@ -1,0 +1,12 @@
+.footer__link {
+  margin: 0;
+  padding: 0;
+  color: #FFFFFF;
+  text-decoration: none;
+  opacity: .8;
+  transition: all .3;
+}
+
+.footer__link:hover {
+  opacity: .3;
+}
