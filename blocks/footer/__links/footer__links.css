@@ -5,11 +5,13 @@
   flex-direction: row;
   gap: 0 18px;
   list-style-type: none;
+  align-self: center;
 }
 
 @media screen and (max-width: 767px){
   .footer__links {
     flex-direction: column;
+    align-self: start;
     gap: 32px 0;
   }
 }

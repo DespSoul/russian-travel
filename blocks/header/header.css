@@ -1,6 +1,6 @@
 .header {
   padding: 28px 48px 0;
-  min-height: 52px;
+
   display: flex;
   justify-content: space-between;
   box-sizing: border-box;
@@ -15,6 +15,5 @@
 @media screen and (max-width: 767px){
   .header {
     padding: 16px 16px 0;
-    height: 42px;
   }
 }

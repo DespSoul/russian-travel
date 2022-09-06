@@ -1,17 +1,17 @@
 @font-face {
   font-family: 'Inter';
   font-weight: 400;
-  src: url(./Inter-VariableFont_slnt\,wght.ttf);
+  src: url(../font/Inter-Regular.ttf);
 }
 
 @font-face {
   font-family: 'Inter';
   font-weight: 700;
-  src: url(./Inter-Bold.ttf);
+  src: url(../font/Inter-Bold.ttf);
 }
 
 @font-face {
   font-family: 'Inter';
   font-weight: 900;
-  src: url(./Inter-Black.ttf);
+  src: url(../font/Inter-Black.ttf);
 }

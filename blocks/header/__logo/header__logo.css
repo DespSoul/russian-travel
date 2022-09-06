@@ -2,6 +2,7 @@
   background-image: url(../../../images/__logo.png);
   max-width: 176px;
   width: 100%;
+  background-size: 100%;
   min-height: 52px;
   background-repeat: no-repeat;
 }
@@ -10,6 +11,5 @@
   .header__logo {
     max-width: 142px;
     min-height: 42px;
-    background-size: 100%;
   }
 }

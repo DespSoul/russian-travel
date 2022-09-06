@@ -6,12 +6,11 @@
   font-size: 18px;
   line-height: 22px;
   color: #FFFFFF;
-  opacity: .8;
-  transition: all .3;
+  transition: all .3s;
 }
 
 .place__link:hover {
-  opacity: .3;
+  opacity: .8;
 }
 
 @media screen and (max-width: 767px){
