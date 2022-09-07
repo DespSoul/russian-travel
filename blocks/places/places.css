@@ -1,29 +1,22 @@
 .places {
-  margin: 92px 148px;
+  margin: 92px 0;
   padding: 0;
   display: flex;
   flex-direction: column;
+  align-items: center;
   gap: 80px;
-}
-
-@media screen and (max-width: 1279px){
-  .places {
-    margin-left: 48px;
-    margin-right: 48px;
-  }
-  
 }
 
 @media screen and (max-width: 1023px){
   .places {
-    margin: 88px 24px 0;
+    margin: 88px 0 90px;
     gap: 73px;
   }
 }
 
-@media screen and (max-width: 1023px){
+@media screen and (max-width: 767px){
   .places {
-  margin: 64px 0 0;
+    margin: 64px 0 66px;
     gap: 50px;
   }
 }
